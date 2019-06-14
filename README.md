@@ -7,4 +7,4 @@ To run this program, you must follow these simple instructions:
 
 2. run "pipenv run python flappy.py" to run the file which holds all the code
 
-I wanted to build upon my Python coding skills so chose to remake a game that I missed playing grow up, and it turned out pretty well. C
+I wanted to build upon my Python coding skills so chose to remake a game that I missed playing grow up, and it turned out pretty well. Check it out!
